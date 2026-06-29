@@ -1,57 +1,83 @@
-# DataAnalytics-PowerBI
+# Data Analytics using Power BI
 
-📌 Project Overview
+This repository contains Power BI projects developed to analyze business data and transform raw datasets into interactive dashboards. The reports focus on identifying trends, measuring KPIs, and supporting data-driven decision-making through effective visualizations.
 
-This project focuses on building an interactive Power BI dashboard to analyze business data and extract actionable insights. The goal is to transform raw data into meaningful visualizations that support data-driven decision-making.
+## Features
+- Interactive Power BI dashboards
+- Data cleaning and transformation using Power Query
+- DAX measures and calculated columns
+- KPI tracking and performance analysis
+- Dynamic filtering using slicers
+- Business insights through visual storytelling
 
-**Objectives**
-Analyze key business metrics and performance indicators
-Identify trends, patterns, and anomalies in the dataset
-Create an intuitive and interactive dashboard for stakeholders
-Enable quick and informed business decisions
+## Tools & Technologies
 
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV
+- Data Modeling
 
-**Tools & Technologies**
-Power BI – Data visualization and dashboard creation
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – Custom measures and calculations
-Excel / CSV Dataset – Source data
+## Repository Structure
 
+DataAnalytics-PowerBI/
+│
+├── Dashboard1.pbix
+├── Dashboard2.pbix
+├── Dataset/
+├── Images/
+└── README.md
 
-**Project Structure**
-/dataset            → Raw dataset used for analysis  
-/dashboard.pbix     → Power BI dashboard file  
-/screenshots        → Dashboard preview images  
-README.md           → Project documentation
+## Dashboard Highlights
 
+This repository includes dashboards covering various business scenarios such as:
 
-**Key Features**
-Interactive dashboard with filters and slicers
-KPI tracking (e.g., revenue, sales, performance metrics)
-Trend analysis using charts and graphs
-Drill-down capability for detailed insights
-Clean and user-friendly UI for easy navigation
+- Sales Performance Analysis
+- Customer Insights
+- Regional Performance
+- Profit Analysis
+- KPI Dashboard
+- Trend Analysis
 
+Each dashboard provides interactive visualizations that help users explore data efficiently.
 
-**Data Analysis Process**
-Data Collection – Imported dataset from structured sources
-Data Cleaning – Removed duplicates, handled missing values
-Data Transformation – Structured data using Power Query
-Data Modeling – Established relationships between tables
-Visualization – Built dashboards using charts, cards, and slicers
-Insight Generation – Derived meaningful business conclusions
+## Key Skills Demonstrated
 
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- KPI Reporting
 
-**Key Insights**
-Identified top-performing categories and regions
-Observed sales trends across different time periods
-Highlighted underperforming segments requiring attention
-Provided actionable insights to improve overall performance
+## Dashboard Preview
 
+> Add screenshots of your Power BI dashboards in the **Images** folder and display them here.
 
-**Business Impact**
-This dashboard helps stakeholders:
-Monitor business performance in real-time
-Make data-driven decisions
-Identify growth opportunities and risks
-Improve operational efficiency
+Example:
+![Dashboard](Images/dashboard.png)
+
+## How to Use
+
+1. Clone this repository.
+2. Open the `.pbix` file using Microsoft Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the interactive dashboards.
+
+## Learning Objectives
+
+- Convert raw data into meaningful insights.
+- Build professional dashboards.
+- Apply DAX for advanced calculations.
+- Create interactive business reports.
+
+## Author
+
+**Mounish Kumar**
+
+- LinkedIn: https://www.linkedin.com/in/mounish-kumar-685b47301/
+- GitHub: https://github.com/MounishKumar228
+
+**If you found this repository useful, consider giving it a star!**
