@@ -1,83 +1,146 @@
-# Data Analytics using Power BI
+**Data Analytics using Power BI**
 
-This repository contains Power BI projects developed to analyze business data and transform raw datasets into interactive dashboards. The reports focus on identifying trends, measuring KPIs, and supporting data-driven decision-making through effective visualizations.
+Welcome to my Power BI Portfolio Repository! This repository contains hands-on Power BI projects that demonstrate my skills in Data Cleaning, Data Modeling, DAX, Power Query, Data Visualization, and Business Intelligence.
 
-## Features
-- Interactive Power BI dashboards
-- Data cleaning and transformation using Power Query
-- DAX measures and calculated columns
-- KPI tracking and performance analysis
-- Dynamic filtering using slicers
-- Business insights through visual storytelling
+Each project focuses on solving real-world business problems by transforming raw data into interactive dashboards and meaningful insights.
 
-## Tools & Technologies
-
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel / CSV
-- Data Modeling
-
-## Repository Structure
-
-DataAnalytics-PowerBI/
+**Repository Structure**
+DataAnalytics-PowerBI
 │
-├── Dashboard1.pbix
-├── Dashboard2.pbix
-├── Dataset/
-├── Images/
+├── Data Cleaning Project
+├── Data Modelling Project
+├── DAX Project
+├── Dashboard Projects
+├── Reports
+├── Datasets
 └── README.md
 
-## Dashboard Highlights
+**Skills Demonstrated**
+Microsoft Power BI
+Power Query (ETL)
+Data Cleaning & Transformation
+Data Modeling
+Star Schema Design
+DAX (Data Analysis Expressions)
+Time Intelligence
+KPI Development
+Interactive Dashboard Design
+Business Intelligence
+Data Visualization
 
-This repository includes dashboards covering various business scenarios such as:
+**Projects Included**
 
-- Sales Performance Analysis
-- Customer Insights
-- Regional Performance
-- Profit Analysis
-- KPI Dashboard
-- Trend Analysis
+**Data Cleaning Project**
 
-Each dashboard provides interactive visualizations that help users explore data efficiently.
+**Objective**
+Prepare raw datasets for reporting by performing data transformation and preprocessing using Power Query.
 
-## Key Skills Demonstrated
+**Tasks Performed**
+Removed duplicates
+Handled missing values
+Changed data types
+Renamed columns
+Split and merged columns
+Created calculated columns
+Standardized data formats
 
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Calculations
-- Dashboard Design
-- Business Intelligence
-- Data Visualization
-- KPI Reporting
+**Skills Used**
+Power Query
+ETL
+Data Transformation
 
-## Dashboard Preview
+**Data Modelling Project**
 
-> Add screenshots of your Power BI dashboards in the **Images** folder and display them here.
+**Objective**
+Design an optimized Power BI data model using Fact and Dimension tables.
 
-Example:
-![Dashboard](Images/dashboard.png)
+**Highlights**
+Created Star Schema
+Built relationships between tables
+Configured relationship cardinality
+Created Date Dimension
+Managed filter propagation
+Improved report performance
+Tables Used
+Fact Sales
+Fact Sales Targets
+Fact Inventory
+Fact Campaign Spend
+Fact Promotion Coverage
+Dim Date
+Dim Products
+Dim Customers
+Dim Campaign
+Dim Geography
 
-## How to Use
+**Skills Used**
+Data Modeling
+Relationship Management
+Star Schema
+Dimension Modeling
 
-1. Clone this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the interactive dashboards.
+**DAX Project**
 
-## Learning Objectives
+**Objective**
+Create reusable measures and calculations for business reporting.
 
-- Convert raw data into meaningful insights.
-- Build professional dashboards.
-- Apply DAX for advanced calculations.
-- Create interactive business reports.
+**DAX Concepts**
+SUM
+CALCULATE
+FILTER
+ALL
+DIVIDE
+IF
+SWITCH
+RELATED
+Time Intelligence
+Variables (VAR)
+Measures Created
+Total Sales
+Target Revenue
+Sales Variance
+Profit
+Average Sales
+Running Total
+Year-to-Date (YTD)
+Month-to-Date (MTD)
+Quarter-to-Date (QTD)
 
-## Author
+**Dashboard Features**
+KPI Cards
+Interactive Filters
+Slicers
+Matrix Visuals
+Trend Analysis
+Bar Charts
+Pie Charts
+Line Charts
+Drill-through
+Tooltips
+Conditional Formatting
 
-**Mounish Kumar**
+**Learning Outcomes**
+Through these projects, I gained practical experience in:
 
-- LinkedIn: https://www.linkedin.com/in/mounish-kumar-685b47301/
-- GitHub: https://github.com/MounishKumar228
+Building scalable Power BI data models
+Writing efficient DAX measures
+Creating interactive business dashboards
+Implementing Power Query transformations
+Designing professional reports
+Applying Business Intelligence best practices
 
-**If you found this repository useful, consider giving it a star!**
+**Tools & Technologies**
+
+| Tool             | Purpose               |
+| ---------------- | --------------------- |
+| Power BI Desktop | Dashboard Development |
+| Power Query      | Data Cleaning & ETL   |
+| DAX              | Business Calculations |
+| Excel            | Data Source           |
+| SQL              | Data Preparation      |
+
+**Sample Screens**
+Data Model
+DAX Measures
+Dashboard
+Power Query Transformations
