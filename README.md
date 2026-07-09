@@ -5,6 +5,7 @@ Welcome to my Power BI Portfolio Repository! This repository contains hands-on P
 Each project focuses on solving real-world business problems by transforming raw data into interactive dashboards and meaningful insights.
 
 **Repository Structure**
+
 DataAnalytics-PowerBI
 │
 ├── Data Cleaning Project
@@ -16,6 +17,7 @@ DataAnalytics-PowerBI
 └── README.md
 
 **Skills Demonstrated**
+
 Microsoft Power BI
 Power Query (ETL)
 Data Cleaning & Transformation
@@ -33,9 +35,11 @@ Data Visualization
 **Data Cleaning Project**
 
 **Objective**
+
 Prepare raw datasets for reporting by performing data transformation and preprocessing using Power Query.
 
 **Tasks Performed**
+
 Removed duplicates
 Handled missing values
 Changed data types
@@ -45,6 +49,7 @@ Created calculated columns
 Standardized data formats
 
 **Skills Used**
+
 Power Query
 ETL
 Data Transformation
